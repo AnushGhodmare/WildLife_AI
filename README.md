@@ -165,15 +165,15 @@ POST /detect
 
 ## Home Interface
 
-File Name: `home-interface.png`
+File Name: `WhatsApp Image 2026-05-12 at 7.49.36 PM (2).jpeg`
 
-![Home Interface](screenshots/home-interface.png)
+![Home Interface](screenshots/WhatsApp Image 2026-05-12 at 7.49.36 PM (2).jpeg)
 
 ## Wildlife Detection Result
 
-File Name: `detection-result.png`
+File Name: `WhatsApp Image 2026-05-12 at 7.49.36 PM (3).jpeg`
 
-![Detection Result](screenshots/detection-result.png)
+![Detection Result](screenshots/WhatsApp Image 2026-05-12 at 7.49.36 P
 
 ---
 
